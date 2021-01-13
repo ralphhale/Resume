@@ -15,17 +15,18 @@ Table of Contents
   - [Certifications:](#certifications)
     - [NACLC Secret Security Clearance](#naclc-secret-security-clearance)
 
+</br>
+
 # Ralph Hale's Resume
 ## Contact Info
 Ralph Hale - ralphhale@gmail - [Linkedin](https://www.linkedin.com/in/ralph-hale-65a9165/)
 
----
+</br>
 
 ## Summary
 Highly experienced and accomplished technical and agile methodology consultant. Proven full stack development capability including developing solutions for native cloud infrastructures. Focus on developing high quality software by employing test driven development techniques.
 
 </br>
----
 
 ## Core Technical Skills
 
@@ -41,7 +42,6 @@ Highly experienced and accomplished technical and agile methodology consultant. 
 | Ethereum Blockchain | Networking Topologies | C/C++ | Elastic Store
 
 </br>
----
 
 ## Experiences:
 
@@ -53,7 +53,6 @@ Highly experienced and accomplished technical and agile methodology consultant. 
 | Technologies | C#, Azure, .NetCore, Angular7+, Python3, Java, Elastic Store, MongoDb, Simulink
 
 </br>
----
 
 ### Shift Digital
 | 07/2014 to 10/2015 | Principal Software Engineer - Birmingham, MI  |
@@ -63,7 +62,6 @@ Highly experienced and accomplished technical and agile methodology consultant. 
 | Technologies | C#, SQL, ASP.NET, HTML5, Javascript, Angular |
 
 </br>
----
 
 ### ProModel Corporation
 | 08/2009 to 07/2014 | Project Manager / Principal Software Engineer - Ann Arbor, MI  |
@@ -73,7 +71,6 @@ Highly experienced and accomplished technical and agile methodology consultant. 
 | Technologies | C#, SQL, ASP.NET, Silverlight, HTML5, Javascript, Angular |
 
 </br>
----
 
 ### Ascent Technologies
 | 12/2007 to 08/2009 | Project Manager / Technical Lead - Ann Arbor, MI  |
@@ -83,7 +80,6 @@ Highly experienced and accomplished technical and agile methodology consultant. 
 | Technologies | C#, SQL, ASP.NET, HW Engineering |
 
 </br>
----
 
 ### Sycamore Networks (formerly Eastern Research)
 | 12/2004 to 12/2006 | Seniro Software Engineer - Ann Arbor, MI |
@@ -93,7 +89,6 @@ Highly experienced and accomplished technical and agile methodology consultant. 
 | Technologies | C++, Embedded software development, T1/E1, ATM, CES |
 
 </br>
----
 
 ### McData Corporation (Acquired by Brocade)
 | 08/1999 to 11/2014 | Senior Firmware Engineer - Broomfield, CO|
@@ -103,7 +98,6 @@ Highly experienced and accomplished technical and agile methodology consultant. 
 | Technologies | C++, Embedded software development, ASIC functional validation |
 
 </br>
----
 
 ## Education:
 ### Michigan Technological University
@@ -113,7 +107,6 @@ Highly experienced and accomplished technical and agile methodology consultant. 
 | Summary | Obtained a bachelor’s degree in electrical engineering, with focused studies in computer engineering, and analog and digital communications. Completed the Computer Science bachelor’s degree program up to the senior level. |
 
 </br>
----
 
 ## Certifications:
 ### NACLC Secret Security Clearance
